@@ -18,3 +18,12 @@ body{
 }
 
 /* common style */
+
+
+/* header part css start */
+
+/* navbar css start */
+ul.navbar-nav>li.nav-item>a.nav-link{
+    color:#3E3E3E;
+
+}
