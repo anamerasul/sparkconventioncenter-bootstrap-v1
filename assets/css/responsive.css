@@ -12,8 +12,19 @@
     }
 
     .my-navbar-toggler{
-       bottom:25.99px;
+       bottom:28.99px;
         left:0;
+    }
+
+    .my-carousel-caption{
+        bottom:0.1rem;
+    }
+    .my-carousel-paragraph {
+        font-size: 12px;
+    }
+
+    .my-carousel-indicators{
+        top:160px;
     }
 
 
@@ -32,6 +43,28 @@
         box-shadow: none;
     }
 
+    .my-carousel-caption{
+        bottom:0.1rem;
+    } 
+
+    .my-carousel-paragraph {
+        font-size: 14px;
+    }
+
+    
+
+    
+
+
+
+}
+
+/* special case */
+
+@media (min-width:576px) and (max-width:580px){
+    .my-carousel-indicators{
+        top:200px;
+    }
 }
 
 
