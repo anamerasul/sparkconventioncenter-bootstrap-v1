@@ -27,6 +27,11 @@
         top:160px;
     }
 
+    .my-carousel-caption-heading {
+   
+        font-size:1.5rem;
+    }
+
 
 }
 
@@ -51,7 +56,10 @@
         font-size: 14px;
     }
 
-    
+    .my-carousel-caption-heading {
+   
+        font-size:2rem;
+    }
 
     
 

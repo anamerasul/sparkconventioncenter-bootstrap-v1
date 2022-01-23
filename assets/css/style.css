@@ -36,6 +36,22 @@ ul.navbar-nav>li.nav-item>a.nav-link{
     background-blend-mode: overlay;
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 600px;
+}
+
+.my-carousel-caption-heading {
+    font-weight:600;
+    font-size:3rem;
+}
+
+.my-carousel-paragraph {
+    font-weight: 300;
+}
+
+
+/* main section css start */
+
+/* every moment section css start */
+.every-moment-heading-paragraph-btn{
+
 }
 
