@@ -12,7 +12,7 @@
     }
 
     .my-navbar-toggler{
-       bottom:28.99px;
+        bottom:28.99px;
         left:0;
     }
 
@@ -28,7 +28,6 @@
     }
 
     .my-carousel-caption-heading {
-   
         font-size:1.5rem;
     }
 
@@ -42,14 +41,10 @@
             }
 
         .our-package-main-heading h3{
-        
             font-size:1.2rem;
-         
-        
         }
 
-        .client-says-heading h3{
-           
+        .client-says-heading h3{  
             font-size:1.2rem;
             
         
@@ -61,7 +56,7 @@
         .contract-heading h3{
             font-size:1.2rem;
 
-}
+        }
 
 
 }
@@ -88,7 +83,6 @@
     }
 
     .my-carousel-caption-heading {
-   
         font-size:2rem;
     }
 
@@ -106,7 +100,7 @@
         }
 .client-says-heading h3{
         font-size:1.5rem;
- }
+}
 
 .faq-header h3{
             font-size:1.5rem;
@@ -147,8 +141,6 @@
 
 
 /* extra large */
-@media (min-width:1200px) and (max-width:1399.99px){
-
-  
+@media (min-width:1200px) and (max-width:1399.99px){ 
 }
 

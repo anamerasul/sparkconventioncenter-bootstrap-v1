@@ -85,7 +85,7 @@ font-size: 2.5rem;
 }
 
 .my-packages-btn{
-  font-family: Roboto;
+    font-family: Roboto;
 
 }
 
@@ -100,14 +100,14 @@ font-size: 2.5rem;
 } */
 
 .our-package-items-hot{
-right:0;
-top:0px;
+    right:0;
+    top:0px;
 }
 
 
  /* client says section css start */
 
- .client-says-heading h3{
+.client-says-heading h3{
     font-weight:600;
     font-size:2.5rem;
     line-height:3.5rem;
@@ -166,7 +166,7 @@ color: #383838;
 /* contract section css start */
 
 .contract-location{
-  background-color:rgba(0, 0, 0, 0.116);
+        background-color:rgba(0, 0, 0, 0.116);
 }
 
 .contract-heading h3{
@@ -179,7 +179,7 @@ color: #383838;
 
 /* footer part css start */
 .footer{
-    background-color:#0B0D17;
+    background-color:#0B0D17
 }
 
 
