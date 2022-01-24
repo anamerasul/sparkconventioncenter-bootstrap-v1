@@ -124,6 +124,16 @@ top:0px;
     line-height:3.5rem;
 }
 
+.my-accordion-header{
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #383838;
+
+}
 
 .my-accordion-button:focus{
     box-shadow: none;
@@ -136,3 +146,22 @@ top:0px;
     color:black; 
     background-color:transparent;
 }
+
+.my-accordion-body{
+                font-family: Inter;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 28px;
+
+                font-feature-settings: 'tnum' on, 'lnum' on;
+
+                color: #7E848C;
+
+}
+
+
+
+
+
+

@@ -36,6 +36,11 @@
         font-size: 1.2rem;
         }
 
+        .my-moment-text{
+            font-size: 0.9rem!important;
+            font-weight: 400 !important;
+            }
+
         .our-package-main-heading h3{
         
             font-size:1.2rem;
@@ -85,22 +90,22 @@
     .every-moment-heading-paragraph-btn h3{
         font-size: 1.5rem;
         }
+.my-moment-text{
+            font-size: 1rem!important;
+            font-weight: 400!important;
+            }
+.our-package-main-heading h3{
+            font-size:1.5rem;
+        
+        
+        }
+.client-says-heading h3{
+        font-size:1.5rem;
+ }
 
-        .our-package-main-heading h3{
+.faq-header h3{
             font-size:1.5rem;
-        
-        
-        }
-        .client-says-heading h3{
-       
-            font-size:1.5rem;
-      
-        
-        }
-
-        .faq-header h3{
-            font-size:1.5rem;
-        }
+}
     
 
 
