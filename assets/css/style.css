@@ -51,7 +51,49 @@ ul.navbar-nav>li.nav-item>a.nav-link{
 /* main section css start */
 
 /* every moment section css start */
-.every-moment-heading-paragraph-btn{
+.every-moment-heading-paragraph-btn h3{
+font-size: 2.5rem;
+}
+
+
+/* our packages section css start */
+
+.our-package-main-heading h3{
+    font-weight:600;
+    font-size:2.5rem;
+    line-height:3.5rem;
 
 }
 
+.our-package-name.our-package-price{
+    font-family: Roboto;
+}
+
+.our-package-items{
+    border-radius:7%;
+}
+
+.packages-item small{
+    color:#848199;
+
+}
+
+.my-packages-btn{
+  font-family: Roboto;
+
+}
+
+.our-package-items-active{
+    background-color: rgb(128, 128, 128);
+    transform: scaleY(1.15);
+    box-shadow: 30px 20px 5px rgba(119, 116, 116, 0.281);
+}
+
+/* .hot-active{
+    font-size: 10px;
+} */
+
+.our-package-items-hot{
+right:0;
+top:0px;
+}
