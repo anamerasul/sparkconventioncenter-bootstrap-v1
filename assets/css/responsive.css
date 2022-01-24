@@ -1,5 +1,5 @@
 /* extra small device */
-@media (max-width:575.99px){
+@media (max-width:576px){
     .my-logo-color-one{
         color:rgb(9, 84, 245)!important;
     }
@@ -16,21 +16,6 @@
         left:0;
     }
 
-    /* .my-carousel-caption{
-        bottom:0.1rem;
-    }
-    .my-carousel-paragraph {
-        font-size: 12px;
-    } */
-
-    /* .my-carousel-indicators{
-        top:160px;
-    } */
-
-    /* .my-carousel-caption-heading {
-        font-size:1rem;
-    } */
-
     .carousel-item img{
         height:580px;
 
@@ -38,36 +23,85 @@
 
     .every-moment-heading-paragraph-btn h3{
         font-size: 1.2rem;
-        }
+    }
 
-        .my-moment-text{
+     .my-moment-text{
             font-size: 0.9rem!important;
             font-weight: 400 !important;
-            }
+     }
 
-        .our-package-main-heading h3{
+     .our-package-main-heading h3{
             font-size:1.2rem;
-        }
+     }
 
-        .client-says-heading h3{  
+     .client-says-heading h3{  
             font-size:1.2rem;
             
         
-        }
-        .faq-header h3{
+     }
+     .faq-header h3{
             font-size:1.2rem;
-        }
+     }
 
-        .contract-heading h3{
+     .contract-heading h3{
             font-size:1.2rem;
 
-        }
+     }
 
 
 }
 
-/* small device */
-@media (min-width:576px) and (max-width:767.99px){
+/* small device two part */
+
+
+/* small device 576px to 676px media query  special case*/
+
+
+@media (min-width:576px) and (max-width:676px){
+    .carousel-item img{
+        height:365px;
+
+    }
+
+    .every-moment-img img{
+        height:280px;
+    }
+    .every-moment-heading-paragraph-btn h3{
+        font-size: 1.2rem;
+    }
+
+    .every-moment-heading-paragraph-btn a.btn{
+            padding: 3px;
+    }
+
+    .my-moment-text{
+            font-size: 0.9rem!important;
+            font-weight: 400 !important;
+    }
+
+    .our-package-main-heading h3{
+            font-size:1.2rem;
+    }
+
+    .client-says-heading h3{  
+        font-size:1.2rem;
+            
+        
+    }
+    .faq-header h3{
+            font-size:1.2rem;
+    }
+
+    .contract-heading h3{
+            font-size:1.2rem;
+
+    }
+}
+/* small device second part */
+/* small device 676px to 768px media query*/
+
+
+@media (min-width:676px) and (max-width:768px){
     .my-logo-color-one{
         color:rgb(9, 84, 245)!important;
     }
@@ -79,9 +113,6 @@
         box-shadow: none;
     }
 
-    /* .my-carousel-caption{
-        bottom:0.1rem;
-    }  */
 
     .my-carousel-paragraph {
         font-size: 1rem;
@@ -94,43 +125,33 @@
     .every-moment-heading-paragraph-btn h3{
         font-size: 1.5rem;
         }
-.my-moment-text{
-            font-size: 1rem!important;
-            font-weight: 400!important;
-            }
-.our-package-main-heading h3{
-            font-size:1.5rem;
-        
-        
-        }
-.client-says-heading h3{
-        font-size:1.5rem;
-}
-
-.faq-header h3{
-            font-size:1.5rem;
-}
-    
-.contract-heading h3{
-            font-size:1.5rem;
-
-}
-
-
-}
-
-/* special case */
-
-@media (min-width:576px) and (max-width:580px){
-    .my-carousel-indicators{
-        top:200px;
+    .my-moment-text{
+                font-size: 1rem!important;
+                font-weight: 400!important;
     }
+    .our-package-main-heading h3{
+            font-size:1.5rem;
+    }
+    .client-says-heading h3{
+        font-size:1.5rem;
+    }
+
+    .faq-header h3{
+            font-size:1.5rem;
+    }
+    
+    .contract-heading h3{
+            font-size:1.5rem;
+
+    }
+
+
 }
 
 
 /* mediam device */
 
-@media (min-width:768px) and (max-width:991.99px){
+@media (min-width:768px) and (max-width:992px){
 
 
 }
@@ -139,13 +160,13 @@
 /* large device */
 
 
-@media (min-width:992px) and (max-width:1199.99px){
+@media (min-width:992px) and (max-width:1200px){
 
 
 }
 
 
 /* extra large */
-@media (min-width:1200px) and (max-width:1399.99px){ 
+@media (min-width:1200px) and (max-width:1400px){ 
 }
 
