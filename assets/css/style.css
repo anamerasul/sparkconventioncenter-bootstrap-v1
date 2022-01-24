@@ -1,6 +1,10 @@
 /* google poppins font import */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+/* google inter font import  */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
 /* universal style start */
 *{
     box-sizing: border-box;
@@ -110,4 +114,25 @@ top:0px;
 
 .client-says-card {
     box-shadow: 10px 10px 5px rgba(119, 116, 116, 0.281);
+}
+
+/* faq section css start */
+
+.faq-header h3{
+    font-weight:600;
+    font-size:2.5rem;
+    line-height:3.5rem;
+}
+
+
+.my-accordion-button:focus{
+    box-shadow: none;
+    color:black;
+    background-color:transparent;
+
+}
+.my-accordion-button:active{
+    box-shadow: none;
+    color:black; 
+    background-color:transparent;
 }
